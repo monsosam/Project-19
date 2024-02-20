@@ -7,7 +7,7 @@ const { precacheAndRoute } = require('workbox-precaching/precacheAndRoute');
 const { InjectManifest } = require('workbox-webpack-plugin');
 
 
-
+precacheAndRoute(self.__WB_MANIFEST);
 
 const pageCache = new CacheFirst({
   cacheName: 'page-cache',
