@@ -25,20 +25,7 @@
     "workbox-webpack-plugin": "^6.2.4"
   },
   "dependencies": {
-    "assert": "^2.1.0",
-    "browserify-zlib": "^0.2.0",
     "code-mirror-themes": "^1.0.0",
-    "constants-browserify": "^1.0.0",
-    "crypto-browserify": "^3.12.0",
-    "https-browserify": "^1.0.0",
-    "idb": "^6.1.2",
-    "os-browserify": "^0.3.0",
-    "path-browserify": "^1.0.1",
-    "querystring-es3": "^0.2.1",
-    "stream-browserify": "^3.0.0",
-    "stream-http": "^3.2.0",
-    "url": "^0.11.3",
-    "util": "^0.12.5",
-    "vm-browserify": "^1.1.2"
+    "idb": "^6.1.2"
   }
 }
